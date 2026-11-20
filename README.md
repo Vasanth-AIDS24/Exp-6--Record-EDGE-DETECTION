@@ -62,13 +62,9 @@ plt.axis('on')
 
 <img width="348" height="491" alt="image" src="https://github.com/user-attachments/assets/e1a48d19-1686-46e2-823f-a4ee2754b141" />
 
-
 <img width="345" height="492" alt="image" src="https://github.com/user-attachments/assets/bf448c8f-c1a2-4ef7-9884-b5b976655a1a" />
 
-
-
 <img width="347" height="493" alt="image" src="https://github.com/user-attachments/assets/adeb7b2c-1fd2-4a1f-8450-46e063ef773f" />
-
 
 <img width="342" height="500" alt="image" src="https://github.com/user-attachments/assets/4224ee33-1b61-4e8a-af3c-e801129dc680" />
 
